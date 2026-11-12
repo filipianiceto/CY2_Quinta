@@ -1,0 +1,42 @@
+/*Configurações por Tag*/
+h1{
+    color: blue;
+    background-color: black;
+}
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    background-image: url("bill.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed
+}
+
+p{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+/*Configurações por Classe*/
+.teste{
+    text-align: right;
+    color: greenyellow;
+    font-family: fantasy;
+}
+
+#id_1{
+    color:yellow;
+}
+
+#id_2{
+    color:deeppink;
+}
+
+#id_3{
+    color: orangered;
+}
