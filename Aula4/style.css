@@ -1,0 +1,23 @@
+body{
+    background-color: ghostwhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+    margin: 0px;
+}
+
+header{
+    background-color: lightblue;
+    padding-bottom: 30px;
+}
+
+nav{
+    text-align: center;
+    font-size: 1.3em;
+    background-color: darkcyan;
+    padding: 10px;
+}
+
+h3{
+    font-size: 1.2em;
+    font-style: italic;
+}
+
